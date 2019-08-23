@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![a coastline or something](https://picsum.photos/id/13/200/300)
